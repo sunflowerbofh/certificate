@@ -1,0 +1,5 @@
+kelunik-certificate (1.1.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1012296).
+
+ -- Katharina Drexel <katharina.drexel@bfh.ch>  Thu, 05 May 2022 08:39:35 +0200
