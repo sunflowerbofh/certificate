@@ -23,21 +23,16 @@
         "issues": "https://github.com/kelunik/certificate/issues"
     },
     "require": {
-        "php": ">=7.0",
+        "php": ">=5.4",
         "ext-openssl": "*"
     },
     "require-dev": {
-        "amphp/php-cs-fixer-config": "dev-master",
-        "phpunit/phpunit": "^6 | 7"
+        "phpunit/phpunit": "^4.8",
+        "fabpot/php-cs-fixer": "^1.9"
     },
     "autoload": {
         "psr-4": {
             "Kelunik\\Certificate\\": "lib"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.x-dev"
         }
     }
 }

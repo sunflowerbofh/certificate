@@ -8,7 +8,7 @@ Access certificate details and transform between different formats.
 
 **Required PHP Version**
 
-- PHP 7.0+
+- PHP 5.5+
 
 **Installation**
 

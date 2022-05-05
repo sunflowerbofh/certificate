@@ -2,6 +2,6 @@
 
 namespace Kelunik\Certificate;
 
-class InvalidCertificateException extends \Exception
-{
+class InvalidCertificateException extends \Exception {
+
 }
